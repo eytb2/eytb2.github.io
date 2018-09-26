@@ -114,7 +114,7 @@
 		txtCtx.font = 'bold 70px Sans-serif';
 		txtCtx.textAlign = 'center';
 		txtCtx.baseline = 'middle';
-		txtCtx.fillText("Welcome to Mr.Liang's Blog.", (WIDTH+250) / 2, HEIGHT / 2);
+		txtCtx.fillText("Welcome to eytb2's Blog.", (WIDTH+250) / 2, HEIGHT / 2);
 		ctx.font = 'bold 16px Monospace';
 		ctx.textAlign = 'center';
 		ctx.baseline = 'middle';
